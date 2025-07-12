@@ -1,4 +1,4 @@
-# ⚡ PLN Tagihan Scraper: Async Python Tool for Electric Bill Extraction and Excel Export
+# ⚡ PLN Billing Scraper: Async Python Tool for Electric Bill Extraction and Excel Export
 
 A modular, interactive, and high-performance Python tool designed to scrape PLN (state electricity company) billing data for customer IDs, and output consolidated Excel files. Built with `asyncio` and `aiohttp` to efficiently handle concurrent scraping tasks while providing clear logging and cleanup mechanisms.
 
